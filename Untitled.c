@@ -4,7 +4,7 @@ int main() {
 
     int b = 87;
     for (int j = 5; j < 23; j++) {
-        print("j=%d, b=%d\n" , j, j * b);
+        printf("j=%d, b=%d\n" , j, j * b);
         //give me some output messages in following format
         //and that can be done by add only ONE line code.
         //please refer to Google slides, page 14.
